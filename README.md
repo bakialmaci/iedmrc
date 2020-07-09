@@ -4,18 +4,10 @@ I'm Ibrahim, a computer scientist who loves building heavy mathematical things. 
 
 🔭 Here's a few technologies I've been working with, recently:
 
-- Deep Learning
-- NLP
-- Python, Keras
-- *nix
-- Docker & DevOps
-- DigitalOcean, GCP, AWS
-- Node.js, PHP, C#
-- SQL, NoSQL
-- Cryptography
-- Html / Css / Js
+Deep Learning | NLP | Python, Keras | *nix | Docker & DevOps | DigitalOcean, GCP, AWS | Node.js, PHP, C# | SQL, NoSQL | Cryptography | Html / Css / Js
 
 👯 I’m looking to collaborate on:
+
 - [Galois Autocompleter](https://github.com/galois-autocompleter/galois-autocompleter)
 - [Awesome Docker Compose](https://github.com/iedmrc/awesome-docker-compose)
 - Some secret projects 😎
@@ -26,11 +18,8 @@ I'm Ibrahim, a computer scientist who loves building heavy mathematical things. 
 - Python, JavaScript, Node.js
 
 📫 How to reach me:
-- [Home](https://ibrahim.demirci.com/)
-- [Twitter](https://twitter.com/iedmrc)
-- [LinkedIn](https://www.linkedin.com/in/iedmrc/)
-- [Dev.to](https://dev.to/iedmrc)
-- [PGP](https://ibrahim.demirci.com/pgp_keys.asc)
+
+[Home](https://ibrahim.demirci.com/) | [Twitter](https://twitter.com/iedmrc) | [LinkedIn](https://www.linkedin.com/in/iedmrc/) | [Dev.to](https://dev.to/iedmrc) | [PGP](https://ibrahim.demirci.com/pgp_keys.asc)
 
 <!--
 **iedmrc/iedmrc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
